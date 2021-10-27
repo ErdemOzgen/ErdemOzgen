@@ -7,10 +7,9 @@
 
 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemozgen&theme=dark&show_icons=true&locale=en&layout=compact)" alt="erdemozgen" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemozgen&theme=radical&show_icons=true&locale=en&layout=compact)" alt="erdemozgen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemozgen&show_icons=true&theme=dark)
-&locale=en" alt="erdemozgen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemozgen&show_icons=true&theme=radical&locale=en") alt="erdemozgen" /></p>
 
 
 
