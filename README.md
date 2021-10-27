@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Erdem Ozgen</h1>
 <h3 align="center">A passionate Software Developer and Cyber Security Engineer</h3>
 
-- 📫 How to reach me **m.erdemozgen@gmail.com**
+- 📫 How to reach me **m.erdemozgen@gmail.com** or **[keybase.io/erdemozgen](https://keybase.io/erdemozgen)**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mozgen/](https://www.linkedin.com/in/mozgen/)
 
