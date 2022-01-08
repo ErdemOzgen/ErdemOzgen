@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Erdem Ozgen</h1>
-<h3 align="center">A passionate Software Developer and Cyber Security Engineer</h3>
+<h3 align="center">A passionate Software Developer </h3>
 
 - 📫 How to reach me **m.erdemozgen@gmail.com** or **[keybase.io/erdemozgen](https://keybase.io/erdemozgen)**
 
