@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Erdem Ozgen</h1>
+.<h1 align="center">Hi, I'm Erdem Ozgen</h1>
 <h3 align="center">A passionate Software Developer </h3>
 
 - 📫 How to reach me **m.erdemozgen@gmail.com** , **[keybase.io/erdemozgen](https://keybase.io/erdemozgen)** or **m.erdemozgen@protonmail.com**
@@ -9,7 +9,7 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemozgen&orgs=go-learning-land&exclude_repo=MachineLearningArchive&langs_count=6&theme=radical&show_icons=true&locale=en&layout=compact&line_height=24)" alt="erdemozgen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemozgen&count_private=true&show_icons=true&theme=radical&locale=en&line_height=24") alt="erdemozgen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemozgen&orgs=go-learning-land&count_private=true&show_icons=true&theme=radical&locale=en&line_height=24") alt="erdemozgen" /></p>
 </div>
 
 
