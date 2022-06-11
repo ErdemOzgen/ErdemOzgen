@@ -9,11 +9,11 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erdemozgen&exclude_repo=MachineLearningArchive&langs_count=6&theme=radical&show_icons=true&locale=en&layout=compact&line_height=24)" alt="erdemozgen" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemozgend&count_private=true&show_icons=true&theme=radical&locale=en&line_height=24") alt="erdemozgen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erdemozgen&count_private=true&show_icons=true&theme=radical&locale=en&line_height=24") alt="erdemozgen" /></p>
 </div>
 
 </div>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=go-learning-land&count_private=true&show_icons=true&theme=radical&locale=en&line_height=24") alt="erdemozgen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?orgs=go-learning-land&count_private=true&show_icons=true&theme=radical&locale=en&line_height=24") alt="erdemozgen" /></p>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
