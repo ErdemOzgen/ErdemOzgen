@@ -22,8 +22,3 @@
 <div align="center">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-Learning-Land&repo=Go-Learning-Archive&show_owner=true&theme=radical" alt="erdemozgen" /></p>
 </div>
-
-
-
-
-[![Go Learning Land](https://github-readme-stats.vercel.app/api/pin/?username=Go-Learning-Land&repo=Go-Learning-Archive&show_owner=true&theme=radical)](https://github.com/Go-Learning-Land/Go-Learning-Archive)
