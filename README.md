@@ -20,6 +20,8 @@
 	
 # Working on
 <div align="center">
+<a href="https://github.com/deepset-ai/haystack"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=deepset-ai&repo=haystack&show_owner=true&theme=radical" alt="erdemozgen" /></a>
+</br>
 <a href="https://github.com/Go-Learning-Land/Go-Learning-Archive"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Go-Learning-Land&repo=Go-Learning-Archive&show_owner=true&theme=radical" alt="erdemozgen" /></a>
 </br>
 <a href="https://github.com/ErdemOzgen/recording-angel"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ErdemOzgen&repo=recording-angel&show_owner=true&theme=radical" alt="erdemozgen" /></a>
